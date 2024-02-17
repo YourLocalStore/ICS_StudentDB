@@ -5,8 +5,6 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
 
-
-
 class Student:
 
     # Intialization 
@@ -19,14 +17,6 @@ class Student:
         # self.studentCourse = StringVar()
         # self.studentCourseSection = StringVar()
 
-        pass
-
-    # Fetch any data from entered values
-    def getData():
-        pass
-
-    # Delete any data if needed from the user
-    def deleteData():
         pass
 
 # Main loop
