@@ -4,3 +4,5 @@ A WIP Project for the Grade 12 Computer Science (ICS4U) ISP.
 > Planned features include:
 > + Adding/Removing Students;
 > + Updating Student Data;
+
+> + Cancelled project, moved onto something else.
